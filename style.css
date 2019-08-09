@@ -477,4 +477,11 @@ li {
         margin: auto;
         transition: linear 1s;
     }
+    .pptp img {
+        width: 80%;
+    }
+    iframe {
+        width: 300px;
+        height: 250px;
+    }
 }
