@@ -283,23 +283,20 @@ hr {
 }
 
 .knit {
-    margin-bottom: 50px;
+    margin-bottom: 45px;
 }
 
-.event-row {
+.knit-img {
     width: 50%;
-    margin: 100px auto 100px auto;
-    display: block;
 }
 
-.knit-img,
 .budha {
-    float: left;
     width: 90%;
 }
 
 .info {
-    float: right;
+    width: 70%;
+    margin: auto;
 }
 
 .meditation {
